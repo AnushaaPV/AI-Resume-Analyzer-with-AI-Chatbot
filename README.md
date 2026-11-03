@@ -1,6 +1,8 @@
-# AI Resume Analyzer
+# AI Resume Analyzer with AI Chatbot
 
 A Streamlit web app that scores how well a resume matches a job description, shows which job keywords are missing, and lets you chat with an AI resume coach.
+
+ **Live demo:** https://ai-resume-analyzer-with-ai-coach-7mcdcy6gdlkd2pquhobxgq.streamlit.app/
 
 ## Features
 
